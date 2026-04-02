@@ -121,6 +121,6 @@ Contributions are welcome! Feel free to fork and improve the project.
 
 This project demonstrates:
 - End-to-end data pipeline development  
-- Real-world data engineering workflow  
+- Easier Job searching. 
 - Automation and scheduling with Airflow  
-- Data visualization and user interaction  
+
