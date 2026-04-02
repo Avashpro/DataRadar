@@ -49,12 +49,6 @@ The project scrapes job postings from multiple company career pages, cleans and 
 
 ---
 
-## 🖥️ Demo
-
-*(Add screenshots here — very important for recruiters)*
-
----
-
 ## 📁 Project Structure
 
 ```
